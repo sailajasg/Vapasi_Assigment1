@@ -9,7 +9,7 @@ import java.util.Scanner;
  * Date 23/08/2017
  * */
 
-public class FoodBazarCounter extends FoodBazarInventory {
+public class PraveenasPurchases extends FoodBazarInventory {
 
     /*Hashmap to store the list of items purchased aong with qauntity*/
     HashMap<String,Double> itemsBought = new HashMap<String,Double>();

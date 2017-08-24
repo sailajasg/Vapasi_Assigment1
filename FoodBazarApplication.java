@@ -6,11 +6,11 @@ package com.thoughtworks.assignments;
  * Date 23/08/2017
  * */
 
-public class foodBazarApplication {
+public class FoodBazarApplication {
 
     public static void main(String[] args) {
 
-        FoodBazarCounter counter= new FoodBazarCounter();
+        PraveenasPurchases counter= new PraveenasPurchases();
         counter.enterItemsPurchased();
         counter.printReceipt();
 
